@@ -25,9 +25,7 @@
 	color: rgb(122,122,122);
 	}
 	
-	.menu li {
-	 list-style: none;
-	}
+
 	
 	.menu_hide{
 /*		background-color: cornflowerblue;*/
